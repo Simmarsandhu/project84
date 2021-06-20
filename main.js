@@ -9,7 +9,7 @@ car1_y=80;
 
 var car2_width=100;
 var car2_height=100;
-car2_img="car2.jpg";
+car2_img="car2.png";
 car2_x=10;
 car2_y=200;
 
